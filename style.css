@@ -1,0 +1,88 @@
+/* CSS for index.html */
+
+.photo {
+    width: 150px;
+    height: 200px;
+    padding: 10px;
+    margin-top: 55px;
+}
+
+nav {
+    height: 40px;
+}
+
+.media {
+    background-color: white;
+    color: gray;
+    margin-top: 20px;
+    margin-left: 45px;
+    width: 90%;
+    padding-bottom: 10px;
+
+}
+
+.card-body {
+    border-top: 10px solid teal;
+    margin-top: 20px;
+    margin-left: 45px;
+    width: 90%;
+    background-color: white;
+    color: gray;
+}
+
+.name-header {
+    border: 1px solid green;
+    width: 20%;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+
+.nav-item {
+    color: gray;
+    margin-right: 20px;
+    margin-top: -10px;
+}
+
+.card-body {
+    text-align: center;
+}
+body {
+    background-color: lightgray;
+}
+
+.mt-0 {
+    padding: 10px;
+    margin-left: -150px;
+    color: teal;
+    font-size: 30px;
+    border-bottom: 2px solid teal;
+    width: 110%;
+}
+
+/* CSS for contact.html */
+
+form {
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+/* Portfolio tab */
+
+.mr-3 {
+    height: 200px;
+    width: 300px;
+    border: 2px solid gray;
+    margin: 5px;
+    padding: -5px;
+}
+
+.media-body h5 {
+    margin-left: 1px;
+    width: 70%;
+}
